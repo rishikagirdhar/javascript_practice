@@ -6,9 +6,9 @@ let name="rish"
 let age=7
 let isloggein=true
 
-// primitive datatypes=> number,bigint,string,null,boolean,undefined,symbol
+// primitive datatypes(7)=> number,bigint,string,null,boolean,undefined,symbol
 
-// objects
+// arrays, objects, functions
 
 console.log(typeof undefined)
 console.log(typeof null)
